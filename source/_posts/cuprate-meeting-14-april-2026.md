@@ -9,7 +9,7 @@ category: messages
 layout: post
 ---
 
-The next Cuprate[^1] meeting is scheduled to take place on Tuesday, April 14th 2026 at 18:00 UTC on IRC-Libera/Matrix[^2] in the #cuprate channels.
+The next [Cuprate](https://github.com/Cuprate) meeting is scheduled to take place on Tuesday, April 14th 2026 at 18:00 UTC on [IRC-Libera](irc://irc.libera.chat/#cuprate)/[Matrix](https://matrix.to/#/#cuprate:monero.social) in the #cuprate channels.
 
 ## Agenda overview (TBD)
 
@@ -18,13 +18,14 @@ The next Cuprate[^1] meeting is scheduled to take place on Tuesday, April 14th 2
 - Project: What is next for Cuprate?
 - Any other business
 
-The meeting agenda is subject to change. Please comment on GitHub[^4] in advance of the meeting if you would like to propose a discussion topic.
+The meeting agenda is subject to change. Please comment on [GitHub](https://github.com/monero-project/meta/issues/1367) in advance of the meeting if you would like to propose a discussion topic.
 
-This meeting's chairperson should be Boog900[^3]. You can also view the meeting information on GitHub[^4].
+This meeting's chairperson should be [Boog900](https://github.com/Boog900). You can also view the meeting information on [GitHub](https://github.com/monero-project/meta/issues/1367).
 
 ---
 
-[^1]: https://github.com/Cuprate
-[^2]: irc://irc.libera.chat/#cuprate (IRC), https://matrix.to/#/#cuprate:monero.social (Matrix)
-[^3]: https://github.com/Boog900
-[^4]: https://github.com/monero-project/meta/issues/1367
+[Cuprate]: https://github.com/Cuprate
+[IRC-Libera]: irc://irc.libera.chat/#cuprate
+[Matrix]: https://matrix.to/#/#cuprate:monero.social
+[Boog900]: https://github.com/Boog900
+[GitHub]: https://github.com/monero-project/meta/issues/1367
