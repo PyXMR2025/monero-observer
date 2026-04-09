@@ -12,11 +12,11 @@ pageTitle = config.title + ' | ' + pageTitle;
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <!-- <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"> -->
     <title><%=pageTitle%></title>
-    <meta name="description" content="<%= page.description || config.description || 'Monero news daily publication. Read about the latest Monero research and development efforts, community meetings, events and projects.' %>">
+    <meta name="description" content="<%= page.description || config.description || 'This is a monero temporary news aggregation website.' %>">
     <!-- <link rel="stylesheet" href="<%= theme.highlight %>"> -->
     <link rel="stylesheet" href="/lightx.css"/>
     <link rel="manifest" href="/manifest.json" />
@@ -24,8 +24,8 @@ pageTitle = config.title + ' | ' + pageTitle;
     <meta name="theme-color" content="#ffffff"/>
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="<%= page.title || config.title %>">
-    <meta name="twitter:description" content="<%= page.description || config.description || 'Monero news daily publication. Read about the latest Monero research and development efforts, community meetings, events and projects.' %>">
-    <meta name="twitter:image" content="<%= page.thumbnail || 'https://monero-observer.openenet.cn/img/monero-banner.png' %>">
+    <meta name="twitter:description" content="<%= page.description || config.description || 'This is a monero temporary news aggregation website.' %>">
+    <!-- <meta name="twitter:image" content="<%= page.thumbnail || 'https://monero-observer.openenet.cn/img/monero-banner.png' %>"> -->
     <!-- <% if(theme.analyticsTrackingID && (theme.analyticsTrackingID.trim() !== "")){%>
     <script async src="https://www.googletagmanager.com/gtag/js?id=<%- theme.analyticsTrackingID.trim() %>"></script>
     <script>

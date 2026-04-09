@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Monero Observer
-subtitle: 'Everything that moves in the Monero community.'
-description: 'Monero news daily publication. Read about the latest Monero research and development efforts, community meetings, events and projects.'
+title: Monero View
+subtitle: 'This is a monero temporary news aggregation website.'
+description: 'This is a monero temporary news aggregation website.'
 keywords: Monero, Monero news, privacy coin, Monero community, Monero development, blockchain, crypto news
 author: Jackie
 language: en-US
