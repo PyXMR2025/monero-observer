@@ -6,8 +6,8 @@ const archivesList = list_archives({show_count: false});
 
 <article id="archive">
     <% if (is_year() === false) { %>
-        <h2>Tag cloud</h2>
-        <%- tagcloud({min_font: 16, max_font: 35, amount: 999, color: true, start_color: 'gray', end_color: 'black'}) %>
+        <!-- <h2>Tag cloud</h2>
+        <%- tagcloud({min_font: 16, max_font: 35, amount: 999, color: true, start_color: 'gray', end_color: 'black'}) %> -->
         <% if (categoriesList !== "") { %>
         <h2>Categories</h2>
         <%- categoriesList %>
