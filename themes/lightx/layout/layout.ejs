@@ -18,7 +18,7 @@ pageTitle += ' | ' + config.title;
     <link rel="manifest" href="/manifest.json" />
     <link rel="apple-touch-icon" href="/icon512.png">
     <meta name="theme-color" content="#ffffff"/>
-    <% if(theme.analyticsTrackingID && (theme.analyticsTrackingID.trim() !== "")){%>
+    <!-- <% if(theme.analyticsTrackingID && (theme.analyticsTrackingID.trim() !== "")){%>
     <script async src="https://www.googletagmanager.com/gtag/js?id=<%- theme.analyticsTrackingID.trim() %>"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -27,10 +27,10 @@ pageTitle += ' | ' + config.title;
 
       gtag('config', '<%- theme.analyticsTrackingID.trim() %>');
     </script>
-    <%}%>
+    <%}%> -->
   </head>
   <body>
-    <script>
+    <!-- <script>
       if ('serviceWorker' in navigator) {
         window.addEventListener('load', function () {
           navigator.serviceWorker.register('/sw.js', {scope: '/'})
@@ -42,7 +42,7 @@ pageTitle += ' | ' + config.title;
             });
         });
       }
-    </script>
+    </script> -->
   <div id="page-container">
     <div id="content-wrap">
       <div class="wrapper">
@@ -60,15 +60,15 @@ pageTitle += ' | ' + config.title;
       </div>
     </div>
   </div>
-  <% if(theme.disqus && (theme.disqus.trim() !== "")){%>
+  <!-- <% if(theme.disqus && (theme.disqus.trim() !== "")){%>
     <script id="dsq-count-scr" src="//<%= theme.disqus %>.disqus.com/count.js" async></script>
-  <%}%>
-  <% if(theme.busuanzi) {%>
+  <%}%> -->
+  <!-- <% if(theme.busuanzi) {%>
   <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-  <%}%>
-  <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@latest/build/highlight.min.js"></script>
+  <%}%> -->
+  <!-- <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@latest/build/highlight.min.js"></script>
   <script>
     hljs.initHighlightingOnLoad();
-  </script>
+  </script> -->
   </body>
 </html>

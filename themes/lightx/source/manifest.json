@@ -1,6 +1,6 @@
 {
-  "name": "HEXO Blog With Theme LIGHTX",
-  "short_name": "LIGHTX Blog",
+  "name": "Monero Observer",
+  "short_name": "Monero Observer",
   "display": "standalone",
   "start_url": "/index.html",
   "icons": [
