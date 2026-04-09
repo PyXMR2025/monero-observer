@@ -2,7 +2,9 @@
 title: "Cuprate Meeting #98 scheduled for 14 April 2026 1800 UTC"
 date: 2026-04-09 17:13:00
 updated: 2026-04-09 17:13:00
-tags: calendar, events
+tags: 
+- calendar
+- events
 category: messages
 layout: post
 ---
