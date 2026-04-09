@@ -21,6 +21,10 @@ pageTitle = config.title + ' | ' + pageTitle;
     <link rel="manifest" href="/manifest.json" />
     <link rel="apple-touch-icon" href="/icon512.png">
     <meta name="theme-color" content="#ffffff"/>
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="<%= page.title || config.title %>">
+    <meta name="twitter:description" content="<%= page.description || config.description || 'Monero Observer' %>">
+    <meta name="twitter:image" content="<%= page.thumbnail || '/icon512.png' %>">
     <!-- <% if(theme.analyticsTrackingID && (theme.analyticsTrackingID.trim() !== "")){%>
     <script async src="https://www.googletagmanager.com/gtag/js?id=<%- theme.analyticsTrackingID.trim() %>"></script>
     <script>
