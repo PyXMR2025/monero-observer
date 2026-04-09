@@ -3,18 +3,18 @@
   "short_name": "Monero Observer",
   "display": "standalone",
   "start_url": "/index.html",
-  "icons": [
-    {
-      "src": "/icon192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "/icon512.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    }
-  ],
+  // "icons": [
+  //   {
+  //     "src": "/icon192.png",
+  //     "type": "image/png",
+  //     "sizes": "192x192"
+  //   },
+  //   {
+  //     "src": "/icon512.png",
+  //     "type": "image/png",
+  //     "sizes": "512x512"
+  //   }
+  // ],
   "theme_color": "#ffffff",
   "background_color": "#ffffff"
 }
