@@ -2,6 +2,8 @@
 title: About
 date: 2026-04-09 16:32:00
 updated: 2026-04-09 16:32:00
+tags: meta
+category: meta
 layout: page
 ---
 
