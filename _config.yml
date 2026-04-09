@@ -4,17 +4,17 @@
 
 # Site
 title: Monero Observer
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+subtitle: 'Everything that moves in the Monero community.'
+description: 'Monero news daily publication. Read about the latest Monero research and development efforts, community meetings, events and projects.'
+keywords: Monero, Monero news, privacy coin, Monero community, Monero development, blockchain, crypto news
+author: Jackie
+language: en-US
+timezone: 'Atlantic/Reykjavik'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
-permalink: :year/:month/:day/:title/
+url: https://monero-observer.openenet.cn
+permalink: :title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -44,11 +44,11 @@ post_asset_folder: false
 relative_link: false
 future: true
 highlight:
-  enable: true
-  line_number: true
+  enable: false
+  line_number: false
   auto_detect: false
   tab_replace: ''
-  wrap: true
+  wrap: false
   hljs: false
 prismjs:
   enable: false
@@ -102,4 +102,7 @@ theme: lightx
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo:
+      github: git@github.com:pyxmr2025/monero-observer.git
+  branch: main
