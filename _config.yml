@@ -106,3 +106,16 @@ deploy:
   repo:
       github: git@github.com:pyxmr2025/monero-observer.git
   branch: main
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: icon.png
+  autodiscovery: true
+  template:
