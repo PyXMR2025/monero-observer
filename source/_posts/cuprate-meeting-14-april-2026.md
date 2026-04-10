@@ -4,7 +4,7 @@ date: 2026-04-09 17:13:00
 updated: 2026-04-09 17:13:00
 tags:
 - calendar
-- events
+- meetings
 category: messages
 layout: post
 ---
