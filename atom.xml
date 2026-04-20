@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>Jackie</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <icon>https://monero-observer.openenet.cn/icon512.png</icon>
+  <id>https://monero-observer.openenet.cn/</id>
+  <link href="https://monero-observer.openenet.cn/" rel="alternate"/>
+  <link href="https://monero-observer.openenet.cn/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, Jackie</rights>
+  <subtitle>This is a monero temporary news aggregation website.</subtitle>
+  <title>Monero View</title>
+  <updated>2026-04-10T00:12:00.000Z</updated>
+  <entry>
+    <author>
+      <name>Jackie</name>
+    </author>
+    <category term="messages" scheme="https://monero-observer.openenet.cn/categories/messages/"/>
+    <category term="CCS" scheme="https://monero-observer.openenet.cn/tags/CCS/"/>
+    <id>https://monero-observer.openenet.cn/2-ccs-proposals-ready-funding-10-april-2026/</id>
+    <link href="https://monero-observer.openenet.cn/2-ccs-proposals-ready-funding-10-april-2026/"/>
+    <published>2026-04-10T00:12:00.000Z</published>
+    <summary>
+      <![CDATA[<p>Two CCS proposals have been moved to the funding stage and are now looking for community support:</p>
+<ul>
+<li>vtnerd’s <a]]>
+    </summary>
+    <title>2 CCS proposals ready for funding: vtnerd, plowsof</title>
+    <updated>2026-04-10T00:12:00.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Jackie</name>
+    </author>
+    <category term="messages" scheme="https://monero-observer.openenet.cn/categories/messages/"/>
+    <category term="calendar" scheme="https://monero-observer.openenet.cn/tags/calendar/"/>
+    <category term="meetings" scheme="https://monero-observer.openenet.cn/tags/meetings/"/>
+    <id>https://monero-observer.openenet.cn/cuprate-meeting-14-april-2026/</id>
+    <link href="https://monero-observer.openenet.cn/cuprate-meeting-14-april-2026/"/>
+    <published>2026-04-09T17:13:00.000Z</published>
+    <summary>
+      <![CDATA[<p>The next <a href="https://github.com/Cuprate">Cuprate</a> meeting is scheduled to take place on Tuesday, April 14th 2026 at 18:00 UTC on]]>
+    </summary>
+    <title>Cuprate Meeting #98 scheduled for 14 April 2026 1800 UTC</title>
+    <updated>2026-04-09T17:13:00.000Z</updated>
+  </entry>
+</feed>
